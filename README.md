@@ -31,5 +31,9 @@ Copie a pasta do projeto para o diretório htdocs (no XAMPP).
 Abra o Painel de Controle do XAMPP e inicie os serviços Apache.
 
 Acesse o projeto no navegador digitando:
-http://localhost/nome-da-pasta-do-projeto/
+(http://localhost:8080/opp/opp.php)
+
+Imagem do projeto:
+<img width="757" alt="image" src="https://github.com/user-attachments/assets/d01722f9-7d56-457a-86d6-2e67642185cf" />
+
 
